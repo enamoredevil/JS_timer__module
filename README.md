@@ -1,8 +1,10 @@
 ## Timer module for your website (JS module)
 ---
 ## How to use this module properly:
-- ***import the default function*** (Its initial name is 'timer', yeah that simple)
-- ***call the function with all the arguments passed to it in the next order:***
+
+- ***Click the timer.js file. On the file page, click the Raw button. This opens the raw code in your browser. Right-click the page and select Save as…, then name the file and place it in your project directory.***
+- ***Import the function into your main JS file*** (Its initial name is 'timer', yeah that simple)
+- ***Call the function with all the arguments passed to it in the next order:***
     * ***deadline*** (in the ***YYYY/MM/DD*** format)
     * ***timerBlockSelector*** (the main wrapper that contains all the elements related to the timer)
     * ***daysSelector*** (the element in which days are going to be displayed)
